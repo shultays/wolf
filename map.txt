@@ -1,16 +1,20 @@
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-x                             x
-x                             x
-x                             x
-x                             x
-x                             x
-x                             x
-x           p                 x
-x                             x
-x                             x
-x                             x
-x                             x
-x                             x
-x                             x
-x                             x
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+32
+16
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                              x
+x  aaaaaaaaaaa                 x
+x                 bbbb         x
+x                 bbbb         x
+x  eeee                        x
+x  eeee                        x
+x  eeee           ccccc        x
+x  eeee           ccccc        x
+x                              x
+x                              x
+x   ffff             dddd      x
+x   ffff             dddd      x
+x                              x
+x                              x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+8
+12
